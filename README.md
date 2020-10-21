@@ -32,9 +32,9 @@ feel free to explore it
 
 
 ### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=jesslyn1999&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nuralibasyah&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
 ### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesslyn1999&amp;layout=compact" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuralibasyah&amp;layout=compact" alt="Top Languages"></p>
 
 ---
